@@ -1,19 +1,11 @@
-<div align="center">
-  <img height="300" src="https://zarak-shop.weebly.com/uploads/1/4/2/8/142850557/img-20230808-094655_orig.jpg"  />
-</div>
+<br clear="both">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ridho
-=============================================================================================================================
+<img align="left" height="300" src="https://pbs.twimg.com/media/FpixzsUakAEOoSG?format=jpg&name=large"  />
 
-undergraduate developer student and web developer
--------------------------------------------------
+###
 
-i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.
+<p align="left">Hi My name is Ridho<br>undergraduate developer student and web developer<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.<br><br>🌍  I'm based in indonesia<br>✉️  You can contact me at zorrokeren303@gmail.com<br>🧠  I'm learning front end web development<br>⚡  i like fried rice :D</p>
 
-* 🌍  I'm based in indonesia
-* ✉️  You can contact me at [zorrokeren303@gmail.com](mailto:zorrokeren303@gmail.com)
-* 🧠  I'm learning front end web development
-* ⚡  i like fried rice :D
 
 ### Skills
 
