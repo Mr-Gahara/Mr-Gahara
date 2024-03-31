@@ -27,6 +27,9 @@ i've been learning code since septermber 2022 as an undergraduate developer stud
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mrnarak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnarak&stroke=ffffff&background=312e81&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrnarak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnarak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mrnarak&locale=en&mode=daily&theme=moltack&hide_border=false&order=3" height="150" alt="streak graph"  />
+</div>
 
-<a href="https://github.com/mrnarak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnarak&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
