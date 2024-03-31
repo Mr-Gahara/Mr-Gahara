@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi My name is Ridho<br>undergraduate developer student and web developer<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.<br><br>🌍  I'm based in indonesia<br>✉️  You can contact me at zorrokeren303@gmail.com<br>🧠  I'm learning front end web development<br>⚡  i like fried rice :D</p>
+<p align="left">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ridho<br>undergraduate developer student and web developer<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.<br><br>🌍  I'm based in indonesia<br>✉️  You can contact me at zorrokeren303@gmail.com<br>🧠  I'm learning front end web development<br>⚡  i like fried rice :D</p>
 
 
 ### Skills
