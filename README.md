@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
+  <img height="350" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
 </div>
 
 
@@ -27,13 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Gahara&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mr-Gahara&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mr-Gahara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="876" height="8">
 
