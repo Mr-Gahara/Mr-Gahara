@@ -28,9 +28,10 @@
 <h4 align="left">✉️ You can contact me at zorrokeren303@gmail.com<br>🧠 I'm currently improving more basic understanding of frontend web development<br>⚡ fact about me: i feel more comfortable working in a small team</h4>
 
 ###
-<br>
-<h2 align="center">Language and Tools</h2>
 
+<h3 align="center">Language and Tools</h3>
+
+###
 
 <br clear="both">
 
@@ -47,9 +48,10 @@
 </div>
 
 ###
-<br>
-<h2 align="center">Connect with me!</h2>
 
+<h3 align="center">Connect with me!</h3>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ridho-zikri-tasbiansyah-a1b384290/" target="_blank">
@@ -64,8 +66,10 @@
 </div>
 
 ###
-<br>
-<h2 align="center">GitHub Stats</h2>
+
+<h3 align="center">GitHub Stats</h3>
+
+###
 
 <br clear="both">
 
