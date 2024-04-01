@@ -6,6 +6,8 @@
 # 💫 About Me:
 Hi! im an undergraduate developer student and web developer<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.<br><br>✉️ You can contact me at zorrokeren303@gmail.com<br>🧠 I'm learning front end web development<br>⚡ fun fact: i like fried rice :D
 
+<br><br><br><br>
+
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="876" height="8">
 
 ## 🌐 Socials:
