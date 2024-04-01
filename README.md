@@ -26,9 +26,9 @@
 ###
 
 <h4 align="left">✉️ You can contact me at zorrokeren303@gmail.com<br>🧠 I'm currently improving more basic understanding of frontend web development<br>⚡ fact about me: i feel more comfortable working in a small team</h4>
-<br>
-###
 
+###
+<br>
 <h2 align="center">Language and Tools</h2>
 
 ###
