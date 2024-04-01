@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
+</div>
+
+
 # 💫 About Me:
 Hi! im an undergraduate developer student and web developer<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.<br><br>✉️ You can contact me at zorrokeren303@gmail.com<br>🧠 I'm learning front end web development<br>⚡ fun fact: i like fried rice :D
 
