@@ -2,6 +2,7 @@
 Hi! im an undergraduate developer student and web developer<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey.<br><br>✉️ You can contact me at zorrokeren303@gmail.com<br>🧠 I'm learning front end web development<br>⚡ fun fact: i like fried rice :D
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ridho-zikri-tasbiansyah-a1b384290/) 
 
