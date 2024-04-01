@@ -31,7 +31,6 @@
 <br>
 <h2 align="center">Language and Tools</h2>
 
-###
 
 <br clear="both">
 
@@ -51,7 +50,6 @@
 <br>
 <h2 align="center">Connect with me!</h2>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ridho-zikri-tasbiansyah-a1b384290/" target="_blank">
@@ -68,8 +66,6 @@
 ###
 <br>
 <h2 align="center">GitHub Stats</h2>
-
-###
 
 <br clear="both">
 
