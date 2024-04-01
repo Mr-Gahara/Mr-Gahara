@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<h3>Hi! im a fulltime web developer student and a part timer illustrator<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey. </h3> <br> <h4> ✉️ You can contact me at zorrokeren303@gmail.com<br> 🧠 I'm currently learning in front end web development<br> ⚡ fact about me: i feel more comfortable working in a small team. </h4>
+<h3>Hi! im a fulltime web developer student and a part timer illustrator<br>i've been learning code since septermber 2022 as an undergraduate developer student but recently i started my journey as fullstack web developer and im currently learning front end web development as my roadmap journey. </h3> <br> <h4> ✉️ You can contact me at zorrokeren303@gmail.com<br> 🧠 I'm currently learning javascript and improving more basic understanding of frontend web development <br> ⚡ fact about me: i feel more comfortable working in a small team </h4>
 
 <br>
 
