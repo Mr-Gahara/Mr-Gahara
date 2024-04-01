@@ -1,3 +1,6 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="876" height="8">
+
+
 <div align="center">
   <img height="400" src="https://camo.githubusercontent.com/cb3d5f1cc1f8f9d05163f1f5fdadfb104b1c9bffaf59cdcc15cac8f178494ccc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f30372f61322f37643037613235353637383936326433306438373137646366356462643236362e676966"  />
 </div>
@@ -18,8 +21,6 @@
 <h5 align="left">✉️ You can contact me at zorrokeren303@gmail.com<br>🧠 I'm currently improving more basic understanding of frontend web development<br>⚡ fact about me: i feel more comfortable working in a small team</h5>
 
 ###
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="876" height="8">
 
 
 <h3 align="center">Language and Tools</h3>
